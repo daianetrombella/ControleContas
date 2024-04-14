@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">AccountControl</string>
+    <string name="novacategoria">New category</string>
+    <string name="confirmar">Confirm</string>
+    <string name="listaCategorias">List categories</string>
+    <string name="ver">View</string>
+    <string name="editar">Edit</string>
+    <string name="remover_categoria">Remove category</string>
+    <string name="categoria">Category</string>
+    <string name="digite_o_nome_da_despesa">Enter the name of the expense</string>
+    <string name="valor_despesa">Expense value</string>
+    <string name="ok">ok</string>
+    <string name="voltar">Back</string>
+    <string name="editar_contas">Edit</string>
+    <string name="remover">Remove</string>
+    <string name="vencimento">Expiration</string>
+</resources>

@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">ControleContas</string>
+    <string name="novacategoria">Nova categoria</string>
+    <string name="confirmar">Confirmar</string>
+    <string name="listaCategorias">Lista categorias</string>
+    <string name="ver">Ver</string>
+    <string name="editar">Editar</string>
+    <string name="remover_categoria">Remover categoria</string>
+    <string name="categoria">Categoria</string>
+    <string name="digite_o_nome_da_despesa">Digite o nome da despesa</string>
+    <string name="valor_despesa">Valor despesa</string>
+    <string name="ok">ok</string>
+    <string name="voltar">Voltar</string>
+    <string name="editar_contas">Editar</string>
+    <string name="remover">Remover</string>
+    <string name="vencimento">Vencimento</string>
+</resources>
